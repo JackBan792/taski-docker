@@ -148,4 +148,4 @@ jobs:
         with:
           context: ./gateway/
           push: true
-          tags: jakcban/taski_gateway:latest
+          tags: jackban/taski_gateway:latest
